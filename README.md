@@ -35,7 +35,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,react,nextjs,nodejs,express,flutter,dart,kotlin,firebase,mongodb,postgres,docker,git,github,figma,vscode,androidstudio&perline=11" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,react,nextjs,nodejs,express,postgres,docker,git,github,figma,vscode,linux&perline=10" />
 </p>
 
 ---
