@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Animated neon banner" width="100%"/>
+<img src="./banner.svg" alt="Animated neon banner" width="100%"/>
 
 <a href="https://github.com/builtbyHermes">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5A0&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;App+%26+Web+Developer+%F0%9F%93%B1;AI+Enthusiast+%F0%9F%A4%96;Creative+Builder+%F0%9F%8E%A8" alt="Typing animation"/>
@@ -16,7 +16,7 @@
 ## 👨‍💻 About Me
 
 - 💼 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
-- 🔭 Currently building: web & mobile apps
+- �� Currently building: web & mobile apps
 - 🌱 Learning: Next.js · Flutter · LLM apps
 - 📫 Reach me at: [youremail@example.com](mailto:youremail@example.com)
 
