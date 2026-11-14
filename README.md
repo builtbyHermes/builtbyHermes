@@ -16,9 +16,9 @@
 ## 👨‍💻 About Me
 
 - 💼 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
-- �� Currently building: web & mobile apps
+- 🔭 Currently building: web & mobile apps
 - 🌱 Learning: Next.js · Flutter · LLM apps
-- 📫 Reach me at: [youremail@example.com](mailto:youremail@example.com)
+- 📫 Reach me at: [jonahgebeyhu@gmail.com](mailto:jonahgebeyhu@gmail.com)
 
 ---
 
@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://github.com/builtbyHermes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:jonahgebeyhu@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-00f5a0?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
 </p>
 
