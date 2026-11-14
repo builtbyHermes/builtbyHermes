@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 300" width="100%" role="img" aria-labelledby="title description">
+  <title id="title">Hey, I'm builtbyHermes</title>
+  <desc id="description">Animated neon banner with a coding-themed design.</desc>
+  <defs>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00f5a0"/><stop offset="45%" stop-color="#00d9f5"/><stop offset="75%" stop-color="#a855f7"/><stop offset="100%" stop-color="#ff3cac"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="frame"><rect x="4" y="4" width="892" height="292" rx="18"/></clipPath>
+    <style>.code{font:14px monospace;fill:#00ff80;letter-spacing:3px}.headline{font:700 46px Arial,sans-serif;fill:#fff}.subtitle{font:italic 20px Arial,sans-serif;fill:#c4b5fd}.tagline{font:14px monospace;fill:#94a3b8}</style>
+    <g id="mark" fill="none" stroke="url(#neon)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"><polygon points="0,-42 37,-21 37,21 0,42 -37,21 -37,-21"/><polyline points="-10,-12 -22,0 -10,12"/><polyline points="10,-12 22,0 10,12"/><line x1="5" y1="-15" x2="-5" y2="15"/></g>
+  </defs>
+  <rect width="900" height="300" rx="18" fill="#02040a"/>
+  <g clip-path="url(#frame)" opacity=".8">
+    <g class="code">
+      <text x="24" y="-35">0101  &lt;/&gt;  1010  { }  0101<animate attributeName="y" values="-35;330" dur="7s" repeatCount="indefinite"/></text>
+      <text x="72" y="-190">&lt;code&gt;  1010  AI  0101  &lt;/&gt;<animate attributeName="y" values="-190;330" dur="9s" begin="-3s" repeatCount="indefinite"/></text>
+      <text x="145" y="-100">0101  build()  1010  { }<animate attributeName="y" values="-100;330" dur="8s" begin="-5s" repeatCount="indefinite"/></text>
+      <text x="230" y="-230">&lt;/&gt;  ship();  0101  &lt;/&gt;<animate attributeName="y" values="-230;330" dur="10s" begin="-2s" repeatCount="indefinite"/></text>
+      <text x="330" y="-65">1010  create  &lt;/&gt;  1010<animate attributeName="y" values="-65;330" dur="7.5s" begin="-4s" repeatCount="indefinite"/></text>
+      <text x="430" y="-180">{ code }  0101  build()  AI<animate attributeName="y" values="-180;330" dur="8.5s" begin="-1s" repeatCount="indefinite"/></text>
+      <text x="540" y="-115">&lt;/&gt;  1010  deploy  0101<animate attributeName="y" values="-115;330" dur="9.5s" begin="-6s" repeatCount="indefinite"/></text>
+      <text x="645" y="-220">0101  { ship }  &lt;/&gt;  1010<animate attributeName="y" values="-220;330" dur="7s" begin="-2s" repeatCount="indefinite"/></text>
+      <text x="750" y="-80">AI  0101  &lt;build/&gt;  1010<animate attributeName="y" values="-80;330" dur="8s" begin="-5s" repeatCount="indefinite"/></text>
+    </g><rect width="900" height="300" fill="#02040a" opacity=".66"/>
+  </g>
+  <rect x="4" y="4" width="892" height="292" rx="18" fill="none" stroke="url(#neon)" stroke-width="3" stroke-dasharray="58 22" filter="url(#glow)"><animate attributeName="stroke-dashoffset" from="0" to="-800" dur="8s" repeatCount="indefinite"/></rect>
+  <use xlink:href="#mark" x="130" y="150"><animate attributeName="y" values="150;140;150" dur="3s" repeatCount="indefinite"/></use>
+  <use xlink:href="#mark" x="770" y="150"><animate attributeName="y" values="150;160;150" dur="3s" repeatCount="indefinite"/></use>
+  <text x="450" y="145" text-anchor="middle" class="headline" filter="url(#glow)">Hey, I'm builtbyHermes<animate attributeName="opacity" values="0;1" dur="1.5s" fill="freeze"/></text>
+  <text x="450" y="187" text-anchor="middle" class="subtitle">Developer · Builder · Curious by nature</text>
+  <text x="450" y="225" text-anchor="middle" class="tagline">$ turning ideas into things that ship_<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.5;1" dur="1s" repeatCount="indefinite"/></text>
+</svg>
